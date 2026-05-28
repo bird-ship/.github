@@ -1,6 +1,6 @@
 <div align="center">
 
-# BIRDSHIP
+![alt text](birdshiprogo2026_outline_onlyfont.png)
 
 **韓国の"いいもの"を、もっとかんたんに世界へ。**
 
