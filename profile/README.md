@@ -2,6 +2,8 @@
 
 ![alt text](birdshiprogo2026_outline_onlyfont.png)
 
+### Building the K-Commerce OS for Global Shoppers.
+
 **韓国の"いいもの"を、もっとかんたんに世界へ。**
 
 **Bringing Korea's best to Global — made simple.**
