@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](birdshiprogo2026_outline_onlyfont.png)
+![BIRDSHIP](birdshiprogo2026_outline_onlyfont.png)
 
 ### Building the K-Commerce OS for Global Shoppers.
 
