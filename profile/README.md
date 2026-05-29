@@ -12,21 +12,21 @@
 
 ## 日本語
 
-**BIRDSHIP（バード便）** は、韓国の EC サイトで販売されている商品を日本の消費者向けに購入代行・販売するクロスボーダー EC サービスです。
+**BIRDSHIP（バード便）** は、Kカルチャーを愛する人と韓国の宝箱をつなぐ **K-Commerce OS** です。発見・翻訳・決済・配送までを、ひとつの流れでお届けします。
 
-- 韓国のオンラインショップから商品情報を取り込み、日本語で表示・販売
-- LINE ログインによる手軽な認証と、購入後の通知体験
-- 商品検索 / 注文 / 国際配送 / 決済までワンストップで完結
+- 韓国にしかない商品を、欲しい人のもとへ届ける「発見」のしくみ
+- 言語・決済・物流・信頼——購買の 4 つの壁を、ひとつの流れに
+- Kカルチャーやデザインを愛する世界中の人々と、韓国を直接つなぐ
 
 公式サイト: [www.bird-ship.com](https://www.bird-ship.com)  
 お問い合わせ: [info@bird-ship.com](mailto:info@bird-ship.com)
 
 ## English
 
-**BIRDSHIP** is a cross-border e-commerce service that brings products from Korean online stores to consumers in Japan — handling proxy purchasing, international shipping, and customer support end-to-end.
+**BIRDSHIP** is a **K-Commerce OS** that connects K-culture lovers and design explorers worldwide with Korea's hidden treasures — discovery, translation, payment, and delivery in one seamless flow.
 
-- Imports product catalogs from leading Korean EC sites and localizes them in Japanese
-- Frictionless authentication and post-purchase notifications via LINE
-- One-stop experience covering discovery, checkout, international shipping, and payment
+- A discovery engine that surfaces products available only in Korea
+- Four barriers — language, payment, logistics, trust — dissolved into one seamless flow
+- A direct line from global K-culture fans and design lovers to Korean creators
   
 Contact: [info@bird-ship.com](mailto:info@bird-ship.com)
